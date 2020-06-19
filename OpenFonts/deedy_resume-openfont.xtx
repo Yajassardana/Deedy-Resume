@@ -58,15 +58,16 @@
 %     LAST UPDATED DATE
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\lastupdated
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Debarghya}{Das}{ \urlstyle{same}\href{http://debarghyadas.com}{debarghyadas.com}| \href{http://fb.co/dd}{fb.co/dd}\\
-\href{mailto:deedy@fb.com}{deedy@fb.com} | 607.379.5733 | \href{mailto:dd367@cornell.edu}{dd367@cornell.edu}
+\namesection{Yajas}{Sardana}{
+\urlstyle{same}
+\href{mailto:yajassardana@gmail.com}{yajassardana@gmail.com} | +91 8447042515
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,74 +84,77 @@
 
 \section{Education} 
 
-\subsection{Cornell University}
-\descript{MEng in Computer Science}
-\location{Dec 2014 | Ithaca, NY}
+\subsection{NSUT, DELHI}
+\descript{B.Tech. in Information Technology}
+\location{Expected April 2023 | Delhi, India\\
+Cum. GPA: 8.00}
 \sectionsep
+\subsection{Mount Carmel School}
+\descript{AISSCE 2019}
+\location{94.4\%}
 
-\subsection{Cornell University}
-\descript{BS in Computer Science}
-\location{May 2014 | Ithaca, NY}
-College of Engineering \\
-Magna Cum Laude\\
-\location{ Cum. GPA: 3.83 / 4.0 \\
-Major GPA: 3.9 / 4.0}
-\sectionsep
-
-\subsection{La Martiniere for Boys}
-\location{Grad. May 2011|  Kolkata, India}
-\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \section{Links} 
-Facebook:// \href{https://facebook/dd}{\bf dd} \\
-Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
-LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
-YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
-Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
-Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
+Github:// \href{https://github.com/Yajassardana}{\bf Yajassardana} \\
+LinkedIn://  \href{https://www.linkedin.com/in/yajas-sardana/}{\bf yajas-sardana} \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Coursework}
-\subsection{Graduate}
-Advanced Machine Learning \\
-Open Source Software Engineering \\
-Advanced Interactive Graphics \\
-Compilers + Practicum \\
-Cloud Computing \\
-Evolutionary Computation \\
-Defending Computer Networks \\
-Machine Learning \\
+\section{Interests}
+\subsection{Web Development}
+Experienced in the \\
+MERN stack, API development\\
+and database management\\
 \sectionsep
 
-\subsection{Undergraduate}
-Information Retrieval \\
-Operating Systems \\
-Artificial Intelligence + Practicum \\
-Functional Programming \\
-Computer Graphics + Practicum \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
-Unix Tools and Scripting \\
+\subsection{Debating}
+An avid public speaker and debater\\
+passionate about international\\
+relations and finding new age\\
+solutions to real world problems\\
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     ACHIEVEMENTS  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{ACHIEVEMENTS}
+\subsection{HNMUN'20}
+Represented India amongst 70+\\countries
+at Harvard National\\
+MUN held in Boston,
+Massachusetts\\
+in February 2020\\
+\sectionsep
+\subsection{Techfest IIT-B}
+Ranked 8th amongst top 40\\ 
+teams of the world in
+International\\ Robowars held at IIT-Bombay
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
-\subsection{Programming}
+\subsection{Programming Languages}
 \location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} Python \textbullet{} Javascript \\
-OCaml \textbullet{} Matlab \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
-\location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
+Java \textbullet{}  C++ \textbullet{} Javascript \\
+
+\location{Over 2000 lines:}
+Python \textbullet{} CSS \textbullet{} HTML \textbullet{} NoSQL\\
 \location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
+MySQL \textbullet{} Arduino IDE
+\sectionsep
+\subsection{Frameworks:}
+\location{Proficient:}
+ReactJs \textbullet{} ExpressJs\\
+Git \& Github \textbullet{} Sockets.io\\
+\location{Familiar:}
+AngularJs \textbullet{} AWS \textbullet{} Redis \textbullet{}\\
+ChartJs
+
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -167,77 +171,81 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 %     EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Experience}
-\runsubsection{Facebook}
-\descript{| Software Engineer }
-\location{Jan 2015 - Present | New York, NY}
-\sectionsep
-
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{June 2014 – Sep 2014 | Mountain View, CA}
+\section{Work Experience}
+\runsubsection{Gurugram Police}
+\descript{| Cyber Security Intern }
+\location{Jun 2020 - Present | Remote }
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-\item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-\item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+\begin{tightemize}
+\item Development of plugins to analyse and flag hateful texts.
+\item Training in various CTF approaches.
+\item Data curation and analysis of children centric cyber crimes.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
+\runsubsection{\href{https://studymonk.in/}{Study Monk}}
+\descript{| Full Stack Developer}
+\location{April 2020 – June 2020}
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.\item Created a backbone.js-like framework for the Captions editor.\end{tightemize}
+\item Helped the organisation smoothly scale from 400 to 5000+ active users.
+\item Developed a real time web forum using web sockets and redis.
+\item Improved overall user experience by doing a continuous beta user feedback based MERN stack development.
+\end{tightemize}
 \sectionsep
 
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
+\runsubsection{\href{https://www.progist.net/}{Progist Solutions}}
+\descript{| Web Operations Intern }
+\location{March 2020 – April 2020}
 \begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.\item I created the Meme generator and more in PHP and Shell.\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.\end{tightemize}
+\item Visualised phishing and scam data retrieved from a custom API using ChartJs.
+\item Used basic AngularJs to implement the front end for this feature.
+\item Implemented a dynamic PDF report generation using NodeJs and pdfKit to provide a better perspective towards the generated data.
+\end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Researcher}
-\location{Jan 2014 – Jan 2015 | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+\runsubsection{\href{https://aaa-tech.web.app} {AAA Tech Services}}
+\descript{| Web Operations Head}
+\location{May 2020 – Present}
+\begin{tightemize}
+\item Managing all the website and web-app development projects.
+\item Facilitating a close relationship between the developers a the clients to make their vision of a great product website come true.
+\end{tightemize}
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+\runsubsection{Invincibles Robotics}
+\descript{| Co-Founder}
+\location{January 2018 – December 2019}
+\begin{tightemize}
+\item Founded this organisation to training budding Roboticists from various schools.
+\item Led the competitive division of the organisation to an 8th position world-wide at Techfest IIT-Bombay'20.
+\end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Awards} 
-\begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
-\end{tabular}
+\section{Projects}
+\runsubsection{Chat-ON}
+\descript{| ReactJs, WebSockets }
+\begin{tightemize}
+\item A Real-Time chat application with multiple custom rooms and user sign-up functionalities.
+\item Sockets.io used to achieve quick peer to peer connectivity.
+\end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\runsubsection{AreYouSure}
+\descript{| (In Production) - Python, Javascript }
+\begin{tightemize}
+\item A text analysis based flagging plugin used to flag a text or comment before it's sent.
+\item Banks on cyber-psychology based studies to fulfil it's objective.
+\end{tightemize}
+\sectionsep
 
-\section{Publications} 
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-\bibliographystyle{abbrv}
-\bibliography{publications}
-\nocite{*}
+\runsubsection{Camp Stay}
+\descript{| ExpressJs, MongoDB }
+\begin{tightemize}
+\item A full-stack web application with authentication, authorization and data persistence.
+\item Jwt Authentication used to further secure protected end-points.
+\end{tightemize}
+\sectionsep
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
